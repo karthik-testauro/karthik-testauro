@@ -1,4 +1,9 @@
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/karthik-testauro/karthik-testauro/main/karthik-github-banner.png" alt="Karthik Kodati — Senior SDET and Test Automation Architect" width="100%" />
+</p>
+
+  
 <div align="center">
 
 # Karthik Kodati
