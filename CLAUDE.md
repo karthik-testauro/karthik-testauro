@@ -1,6 +1,6 @@
 # CLAUDE.md
 
-Operating rules for AI-assisted work in this repository. These rules are permanent and apply to every session. Where a rule here conflicts with a general default, this file wins.
+Repository-specific instructions for Claude Code when working in this GitHub portfolio. Apply these standards alongside higher-priority instructions and applicable security policies.
 
 ## 1. Repository Purpose
 
@@ -45,7 +45,7 @@ Writing style rules:
 
 ## 4. Engineering Standards
 
-These standards govern any engineering work done under Karthik's name, including projects in separate repositories that are linked from this profile.
+These engineering standards should be adapted into the individual CLAUDE.md files of future Playwright, TypeScript, and AI quality engineering repositories. Instructions in this profile repository do not automatically apply to separate repositories.
 
 - Prefer **Playwright** and **TypeScript** with a modular architecture.
 - Apply **SOLID** principles where they improve clarity and maintainability. Do not over-abstract small projects.
